@@ -1,3 +1,6 @@
+This is a repository for codsoft internship task Level 1 task 1.
+This is a landing page.I have made a discord clone for landing page.
+
 **Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
 **Step 2:** To run:
